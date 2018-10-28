@@ -35,7 +35,7 @@ Keep the record of the attendance for the last 100 days, and update last 100 bas
 Record attendance inquiries and communication details for each employee with the ability to view all inquiries at once.
 
 ### Describe at a high level a program that could solve that problem.
-The program would have simple GUI with a search bar, the ability to add and remove individuals, and a clickable list of each employee with the most important emplyee information listed next to each employee. All categories will be sortable in ascending and descending order and clicking on each individual will bring up more information about them. There will also be a second tab that keeps track of communication inquires in a priority queue and presents the one without a response for the longest time as highest priority.
+The program would have simple GUI with a search bar, the ability to add and remove individuals, and a clickable list of each employee with the most important emplyee information listed next to each employee.  Al categories will be sortable in ascending and descending order and clicking on each individual will bring up more information about them.  Their will also be a second tab that keeps track of communication inquires in a priority queue and presents the one without a response for the longest time as highest priority.
 
 ## Questions to answer for Exercise #2
 
@@ -43,9 +43,15 @@ The program would have simple GUI with a search bar, the ability to add and remo
    X-Team 77 Project Proposal: Project 
 
 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
-   
+* Employee Id
+* Employee Name
+* Number of points per employee
+* Number of strikes per employee
+* Example: Id - 123456, Name - John Smith, Number of points: 4, Number of strikes - 1
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+* Employee name and attendance that corresponds to a point value.
+* Example: Employee Name - John Smith, Attendance - N (no show)
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
