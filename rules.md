@@ -22,7 +22,8 @@ and missed deadlines.
 * After class discussion if necessary
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+* Reaching out early and often if difficulties are encountered.
+* Making sure the team is aware of each others progress. 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
