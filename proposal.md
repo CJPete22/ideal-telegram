@@ -40,7 +40,7 @@ The program would have simple GUI with a search bar, the ability to add and remo
 ## Questions to answer for Exercise #2
 
 ### 1. Name: Give your project proposal a name (and edit the top line of this file)
-   X-Team 77 Project Proposal: Project 
+   X-Team 77 Project Proposal: Attendex 
 
 ### 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
 * Employee Id
