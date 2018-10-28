@@ -10,8 +10,8 @@
        * GitHub username 1: dwautlet    name 1: Derek
        * GitHub username 2: CJPete22    name 2: Carly
        * GitHub username 3: tkachelski  name 3: Theo
-   * When did you complete this exercise? 10/28 *YAY* procrastination! & Mid-Terms -.- the perfect storm.
-   * How long did it take your team to complete this exercise? Probs an hour or two
+   * When did you complete this exercise? 10/28 
+   * How long did it take your team to complete this exercise? two hours
 
 ## Table of Contents
 
