@@ -59,8 +59,8 @@ The program would have simple GUI with a search bar, the ability to add and remo
    
 
 Name each interface or class and briefly describe its function or purpose.
-##### Classes:
-###### Employee 
+#### Classes:
+##### Employee 
     * Holds the id, names, strike count and point count of the employee
 
 ## Edit and Submit this file and any figures referenced by this document.
