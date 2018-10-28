@@ -1,4 +1,4 @@
-# X-Team 77 Project Proposal
+# X-Team 77 Project Proposal: Attendex
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -53,8 +53,7 @@ The program would have simple GUI with a search bar, the ability to add and remo
 * Example: Employee Name - John Smith, Attendance - N (no show)
 
 ### 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-   #### See Figure 1
-https://github.com/CJPete22/ideal-telegram/Figure1.jpg
+   #### See Figure 1 in Repository
 
 ### 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
    
