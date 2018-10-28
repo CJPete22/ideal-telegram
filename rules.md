@@ -18,8 +18,8 @@ and missed deadlines.
 * Breif updates through text
 
 ## How will will communicate difficulties with a task assigned to us
-
-
+* Email and text
+* After class discussion if necessary
 
 ## How we will back up each other to ensure that deadlines are not missed
 
