@@ -7,12 +7,10 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: dwautlet  name 1: Derek
-       * GitHub username 2: CJPete22  name 2: Carly
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
-   * When did you complete this exercise? 10/26 most likely
+       * GitHub username 1: dwautlet    name 1: Derek
+       * GitHub username 2: CJPete22    name 2: Carly
+       * GitHub username 3: Tkachel101  name 3: Theo
+   * When did you complete this exercise? 10/28 *YAY* procrastination! & Mid-Terms -.- the perfect storm.
    * How long did it take your team to complete this exercise? Probs an hour or two
 
 ## Table of Contents
