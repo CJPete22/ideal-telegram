@@ -9,8 +9,8 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-> Conversation
-> By strengths and weakness ie the weaker person starts and contacts the stronger if need be. 
+* Conversation
+* By strengths and weakness ie the weaker person starts and contacts the stronger if need be. 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
