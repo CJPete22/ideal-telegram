@@ -13,8 +13,9 @@ and missed deadlines.
 * By strengths and weakness ie the weaker person starts and contacts the stronger if need be. 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
-
+* GitHub
+* GitHub is a useful tool to allow us to track progress and make sure everyone is committing everything they need to
+* Breif updates through text
 
 ## How will will communicate difficulties with a task assigned to us
 
