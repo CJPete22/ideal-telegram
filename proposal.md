@@ -39,23 +39,19 @@ Record attendance inquiries and communication details for each employee with the
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-         
+   X-Team 77 Project Proposal: Project 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+2. Output: Describe the output your program will produce.  Include an example format of the output produced.
+   
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 
-
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
+   
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
+   
 
 Name each interface or class and briefly describe its function or purpose.
 
