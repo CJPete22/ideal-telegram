@@ -26,6 +26,6 @@ and missed deadlines.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+* Don't contact Theo during Chem Lab. Tues before 5:30
 
 
