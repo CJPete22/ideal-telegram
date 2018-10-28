@@ -34,13 +34,12 @@ Keep attendance and strike records for 100+ employees. Be able to mark down a va
 Keep the record of the attendance for the last 100 days, and update last 100 based on current date.
 Record attendance inquiries and communication details for each employee with the ability to view all inquiries at once.
 
-Describe at a high level a program that could solve that problem.
+### Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
-
+         
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
