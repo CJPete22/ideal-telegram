@@ -29,7 +29,11 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
+###Briefly describe a problem that your team would like to solve.  
+Keep attendance and strike records for 100+ employees. Be able to mark down a variety of reasons for abscences and tardiness such as various emergencies or midterms. Be able to mark a variety of attendance infractions such as no call no show and calling in sick.
+Keep the record of the attendance for the last 100 days, and update last 100 based on current date.
+Record attendance inquiries and communication details for each employee with the ability to view all inquireis at once.
+
 Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
