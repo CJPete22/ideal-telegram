@@ -43,7 +43,14 @@ The program would have simple GUI with a search bar, the ability to add and remo
    X-Team 77 Project Proposal: Project 
 
 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
-   
+* Employee Id
+* Employee Name
+* Number of points per employee
+* Number of strikes per employee
+* Example: Id - 123456, Name - John Smith, Number of points: 4, Number of strikes - 1
+ 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+* Employee name and attendance that corresponds to a point value.
+* Example: Employee Name - John Smith, Attendance - N (no show)
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
