@@ -1,4 +1,4 @@
-1. Title
+#1. Title
 Place an easy to read title for your program at the top of the document
 
 2. Authors
