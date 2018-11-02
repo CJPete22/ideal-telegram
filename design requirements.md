@@ -1,22 +1,22 @@
 # 1. Title
 Place an easy to read title for your program at the top of the document
 
-#### 2. Authors
+# 2. Authors
 List all names and emails of the students who co-authored this design document.
 
-## 3. Description
+# 3. Description
 Briefly describe the program.  One or two paragraphs at most here.
 
-#### 4. Stakeholders
+# 4. Stakeholders
 Identify (name and describe) the stakeholders that this program design is intended to benefit most.  Note: Your program does not have to address all needs of all stakeholders.  You are choosing who to write your program for, knowing that all stakeholders needs may not be met by your program.
 
-Tips:
+ Tips:
 
-Reread your Exercise #2 proposal and answer these questions
-Who is the primary stakeholder (Links to an external site.)Links to an external site.? 
-Who are the secondary stakeholders? 
-Give each a stakeholder a name or title and brief description of their interaction with the program or its results.  List the primary tasks for each stakeholder.
-Organize your choices in a table or list in your design document.
+ * Reread your Exercise #2 proposal and answer these questions
+ * Who is the primary stakeholder (Links to an external site.)Links to an external site.? 
+ * Who are the secondary stakeholders? 
+ * Give each a stakeholder a name or title and brief description of their interaction with the program or its results.  List the primary tasks for each stakeholder.
+ * Organize your choices in a table or list in your design document.
 
 5. Output
 Format
