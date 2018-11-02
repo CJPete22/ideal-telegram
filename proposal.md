@@ -54,6 +54,7 @@ The program would have simple GUI with a search bar, the ability to add and remo
 
 ### 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
    #### See Figure 1 in Repository
+   ![Figure1](github.com/CJPete/ideal-telegram/Figure1.jpg)
 
 ### 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
    
