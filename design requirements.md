@@ -1,5 +1,5 @@
 # 1. Title
-Place an easy to read title for your program at the top of the document
+Attendex
 
 # 2. Authors
 Derek Wautlet (dwautlet@wisc.edu), 
@@ -12,7 +12,8 @@ Derek Wautlet (dwautlet@wisc.edu),
 # 4. Stakeholders
 Primary Stakeholder
 * Administrators who are responsible for scheduling and absences of employees.
-Secondary Stkeholders
+
+Secondary Stakeholders
 * Supervisors who are responsible for hiring employees and managing. Need strike count in order to determine whether or not an interaction with an employee is required.
 
 # 5. Output
