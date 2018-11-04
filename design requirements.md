@@ -68,8 +68,10 @@ Label each edge with the action (transition) that produces moves data or control
 # 9. Class Summary
 List and describe the classes that you expect to design and implement.
 
-Class name
-Class description of the purpose and use of the class, include fundamental operations (methods) to help describe the class
+Classes:
+
+Employee
+* Holds the id, names, strike count and point count of the employee.
 
 # 10. Implementation Phases
 Assuming that it is not likely a small team can complete entire program at one time, prioritize which operations must be available in each of three phases of the program development.
