@@ -18,7 +18,7 @@ Secondary Stkeholders
 # 5. Output
 Format
 Organized folders, calendar views, and textual output on screen.  
-*Employee Id, Employee Name, Number of points per employee, Number of strikes per employee
+* Employee Id, Employee Name, Number of points per employee, Number of strikes per employee
 
 Example
 Give an example (just make up the "data") for the format of your program's output.
