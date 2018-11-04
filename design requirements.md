@@ -17,17 +17,18 @@ Secondary Stkeholders
 
 # 5. Output
 Format
-What is the primary result (output) that the program will produce or provide to the user?
+Organized folders, calendar views, and textual output on screen.  
+*Employee Id, Employee Name, Number of points per employee, Number of strikes per employee
 
 Example
 Give an example (just make up the "data") for the format of your program's output.
 
 # 6. Input
 Required Data
-What input sources are required to produce the primary output?
+Employee name and attendance that corresponds to a point value.
 
-Example
-Give an example of the format for any required input sources.
+Example: Employee Name - John Smith, Attendance - N (no show)
+
 
 # 7. Diagrams
 ### Home page (required)
