@@ -25,7 +25,7 @@ Give an example (just make up the "data") for the format of your program's outpu
 
 # 6. Input
 Required Data
-Employee name and attendance that corresponds to a point value.
+* Employee name and attendance that corresponds to a point value.
 
 Example: Employee Name - John Smith, Attendance - N (no show)
 
