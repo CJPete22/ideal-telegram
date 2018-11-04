@@ -2,10 +2,11 @@
 Place an easy to read title for your program at the top of the document
 
 # 2. Authors
-List all names and emails of the students who co-authored this design document.
+Derek Wautlet (dwautlet@wisc.edu), 
 
 # 3. Description
-Briefly describe the program.  One or two paragraphs at most here.
+ The program keeps attendance and strike records for 100+ employees. It has the ability to mark down a variety of reasons for abscences and tardiness such as various emergencies or midterms. It has the ability to mark a variety of attendance infractions such as no call no show and calling in sick. It will keep the record of the attendance for the last 100 days, and update last 100 based on current date. It will record attendance inquiries and communication details for each employee with the ability to view all inquiries at once.
+ The program has a simple GUI with a search bar, the ability to add and remove individuals, and a clickable list of each employee with the most important emplyee information listed next to each employee. All categories are sortable in ascending and descending order and clicking on each individual will bring up more information about them. There is also a second tab that keeps track of communication inquires in a priority queue and presents the one without a response for the longest time as highest priority.
 
 # 4. Stakeholders
 Identify (name and describe) the stakeholders that this program design is intended to benefit most.  Note: Your program does not have to address all needs of all stakeholders.  You are choosing who to write your program for, knowing that all stakeholders needs may not be met by your program.
