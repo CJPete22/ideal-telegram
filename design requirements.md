@@ -77,6 +77,9 @@ Employee
 Assuming that it is not likely a small team can complete entire program at one time, prioritize which operations must be available in each of three phases of the program development.
 
 Phase 1 - GUI operational and ability to store inputted data about each employee.
+
 Phase 2 - Calculating strikes, search functionality, and storing inquiry data and other personal files
+
 Phase 3 - Calendar view and sorting functionality
+
 Future phase - Connect to an email server and be able to send emails (and email templates) from the program.
