@@ -2,7 +2,7 @@
 Attendex
 
 # 2. Authors
-Derek Wautlet (dwautlet@wisc.edu), 
+Derek Wautlet (dwautlet@wisc.edu), Carly Peterson (cjpeterson7@wisc.edu), Theo Kachelski (tkachel@wisc.edu)
 
 # 3. Description
  The program keeps attendance and strike records for 100+ employees. It has the ability to mark down a variety of reasons for abscences and tardiness such as various emergencies or midterms. It has the ability to mark a variety of attendance infractions such as no call no show and calling in sick. It will keep the record of the attendance for the last 100 days, and update last 100 based on current date. It will record attendance inquiries and communication details for each employee with the ability to view all inquiries at once.
